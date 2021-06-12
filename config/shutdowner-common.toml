@@ -17,7 +17,7 @@
 	["Shutdowner settings"."server timed shutdown settings"]
 		#Whether to use the timed shutdown default: true
 		shouldAutoShutDown = true
-		#Shutdown ever X minutes default: 180
+		#Shutdown ever X minutes default: 1440
 		#Range: 1 ~ 20000
 		shutDownInterval = 180
 
